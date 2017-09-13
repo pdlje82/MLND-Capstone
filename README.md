@@ -1,6 +1,6 @@
 # MLND-Capstone
 
-The file 170906_capstone_report_udacity.pdf is the capstone (work in progress)
+The file capstone_report_udacity.pdf is the capstone (final)
 
 The ipynb contains all outputs and results. 
 
