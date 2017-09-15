@@ -1,9 +1,15 @@
-# MLND-Capstone
+## Udacity Machine Learning Nanodegree (MLND) capstone project
+## Jan Engelke (C) 2017
 
-The file capstone_report_udacity.pdf is the capstone (final)
+# Dependence of the soiling rate of solar concentrators on weather parameters
 
-The ipynb contains all outputs and results. 
+Files:
 
-Most of the used code is in main.py and TSAPipe.py
+ - capstone_report_udacity.pdf           -------- contains the final the capstone report
+ - XGBoost_DayWise_udacity.ipynb         --- contains code, calculations and all plots used in the report
+ - main.py and                           ------------------------- contains helper functions such as splits, fit/predict, scores, learning curves etc.
+ - TSAPipe.py                            --------------------------- contains helpter plot functions like NaN plots, feature distribution plots etc.          
+  
+ 
 
-The other files provide visualizations and are taken and modified from the MLND.
+  The other files provide visualizations and were taken and modified from the MLND.
